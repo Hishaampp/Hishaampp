@@ -6,7 +6,9 @@
   scripts/generate_stats.py.
 -->
 
-<img src="portrait.svg" width="460" alt="ASCII portrait, typed line by line">
+<p align="center">
+  <img src="portrait.svg" width="460" alt="ASCII portrait, typed line by line">
+</p>
 
 # Hishaam
 
