@@ -14,6 +14,8 @@
 
 I build software end to end — from interface down to infrastructure. Most comfortable owning a product from the first line of code to the people using it.
 
+<samp>Flutter · Dart · React · TypeScript · Firebase · AWS</samp>
+
 <br>
 
 <img src="stats.svg" width="480" alt="contributions in the last 12 months, active days, best week, and a weekly sparkline">
