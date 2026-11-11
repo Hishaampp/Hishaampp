@@ -12,28 +12,28 @@
     text { font-family: 'JBM', ui-monospace, monospace; fill: #1a1a1a; }</style>
 <rect width="480" height="186" fill="#ffffff"/>
 <text x="20" y="24" font-size="11" font-weight="400" fill="#767676" text-anchor="start">top languages · by bytes</text>
-<text x="20" y="50" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">TypeScript</text>
+<text x="20" y="50" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">Dart</text>
 <rect x="140" y="37" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="37" width="82.9" height="10" fill="#3178c6"/>
-<text x="410" y="50" font-size="10" font-weight="400" fill="#767676" text-anchor="start">31.9%</text>
-<text x="20" y="76" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">Dart</text>
+<rect x="140" y="37" width="122.6" height="10" fill="#00B4AB"/>
+<text x="410" y="50" font-size="10" font-weight="400" fill="#767676" text-anchor="start">47.1%</text>
+<text x="20" y="76" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">TypeScript</text>
 <rect x="140" y="63" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="63" width="77.3" height="10" fill="#00B4AB"/>
-<text x="410" y="76" font-size="10" font-weight="400" fill="#767676" text-anchor="start">29.7%</text>
+<rect x="140" y="63" width="61.6" height="10" fill="#3178c6"/>
+<text x="410" y="76" font-size="10" font-weight="400" fill="#767676" text-anchor="start">23.7%</text>
 <text x="20" y="102" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">JavaScript</text>
 <rect x="140" y="89" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="89" width="41.4" height="10" fill="#f1e05a"/>
-<text x="410" y="102" font-size="10" font-weight="400" fill="#767676" text-anchor="start">15.9%</text>
+<rect x="140" y="89" width="30.7" height="10" fill="#f1e05a"/>
+<text x="410" y="102" font-size="10" font-weight="400" fill="#767676" text-anchor="start">11.8%</text>
 <text x="20" y="128" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">C++</text>
 <rect x="140" y="115" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="115" width="16.4" height="10" fill="#f34b7d"/>
-<text x="410" y="128" font-size="10" font-weight="400" fill="#767676" text-anchor="start">6.3%</text>
+<rect x="140" y="115" width="12.2" height="10" fill="#f34b7d"/>
+<text x="410" y="128" font-size="10" font-weight="400" fill="#767676" text-anchor="start">4.7%</text>
 <text x="20" y="154" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">CSS</text>
 <rect x="140" y="141" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="141" width="11.8" height="10" fill="#663399"/>
-<text x="410" y="154" font-size="10" font-weight="400" fill="#767676" text-anchor="start">4.5%</text>
+<rect x="140" y="141" width="8.8" height="10" fill="#663399"/>
+<text x="410" y="154" font-size="10" font-weight="400" fill="#767676" text-anchor="start">3.4%</text>
 <text x="20" y="180" font-size="11" font-weight="400" fill="#1a1a1a" text-anchor="start">HTML</text>
 <rect x="140" y="167" width="260" height="10" fill="#d8d8d8"/>
-<rect x="140" y="167" width="10.3" height="10" fill="#e34c26"/>
-<text x="410" y="180" font-size="10" font-weight="400" fill="#767676" text-anchor="start">4.0%</text>
+<rect x="140" y="167" width="7.7" height="10" fill="#e34c26"/>
+<text x="410" y="180" font-size="10" font-weight="400" fill="#767676" text-anchor="start">2.9%</text>
 </svg>
